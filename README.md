@@ -245,3 +245,6 @@ This repository serves as the official landing page for The Asian Dynasties. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of The Asian Dynasties today!**
+
+---
+**Last updated:** 2026-09-07 00:40:56 UTC
