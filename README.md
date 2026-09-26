@@ -247,4 +247,4 @@ This repository serves as the official landing page for The Asian Dynasties. The
 **Get the most recent version of The Asian Dynasties today!**
 
 ---
-**Last updated:** 2026-09-26 09:05:43 UTC
+**Last updated:** 2026-09-26 14:05:17 UTC
